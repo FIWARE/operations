@@ -12,3 +12,17 @@ cd catalogue/
 git submodule update --init --recursive
 git submodule update --recursive --remote
 ```
+
+## Projects
+
+- [FIWARE Helm Charts](./helm-charts)
+- [FIWARE Load Tests](./load-tests)
+- [FIWARE Marinera](./marinera)
+- [ODALA](./odala)
+
+## License
+
+[MIT](LICENSE) © 2023 FIWARE Foundation e.V. 
+
+This license applies to the infrastructure of this umbrella repository itself.
+Each project is an imported submodule and holds a separate license agreement.
