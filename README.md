@@ -10,8 +10,8 @@ A collection of useful FIWARE Operations and deployment-related repositories suc
 To obtain the latest codebase of all FIWARE software related to Operations
 
 ```console
-git clone https://github.com/FIWARE/catalogue.git
-cd catalogue/
+git clone https://github.com/FIWARE/operations.git
+cd operations/
 git submodule update --init --recursive
 git submodule update --recursive --remote
 ```
