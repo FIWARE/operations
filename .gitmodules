@@ -55,3 +55,6 @@
 [submodule "marinera/tests"]
 	path = marinera/tests
 	url = https://github.com/FIWARE-Ops/marinera-e2e.git
+[submodule "fiware-gitops/fiware-gitops"]
+	path = fiware-gitops/fiware-gitops
+	url = https://github.com/FIWARE-Ops/fiware-gitops.git
