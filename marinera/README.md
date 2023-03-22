@@ -2,7 +2,8 @@
 
 ![License](https://img.shields.io/github/license/fiware-ops/marinera)
 
-A GitOps repository for deploying a FIWARE platform, using [Kubernetes](https://kubernetes.io) and [Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
+A [GitOps](https://www.redhat.com/en/topics/devops/what-is-gitops) repository for deploying a FIWARE platform, using
+[Kubernetes](https://kubernetes.io) and [Red Hat OpenShift](https://www.redhat.com/en/technologies/cloud-computing/openshift)
 
 | :octocat: [Git Repository](https://github.com/FIWARE-Ops/marinera) |
 | ------------------------------------------------------------------ |
