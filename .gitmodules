@@ -56,5 +56,5 @@
 	path = marinera/tests
 	url = https://github.com/FIWARE-Ops/marinera-e2e.git
 [submodule "kubernetes-receipes/kubernetes-receipes"]
-	path = kubernetes-receipes/kubernetes-receipes
+	path = kubernetes-recipes/kubernetes-receipes
 	url = https://github.com/FIWARE/production-on-k8s
