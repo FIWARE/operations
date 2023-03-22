@@ -1,6 +1,9 @@
 # FIWARE Operations
 
-A collection of useful FIWARE Operations repositories such as Helm-Charts and reference architectures.
+![FIWARE Catalogue](https://nexus.lab.fiware.org/repository/raw/public/badges/chapters/deployment-tools.svg)
+[![License: MIT](https://img.shields.io/github/license/fiware/operations.svg)](https://opensource.org/licenses/MIT)
+
+A collection of useful FIWARE Operations and deployment-related repositories such as Helm-Charts and reference architectures.
 
 ## Installation
 
