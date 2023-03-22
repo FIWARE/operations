@@ -15,9 +15,9 @@ git submodule update --recursive --remote
 
 ## Projects
 
-- [FIWARE Helm Charts](./helm-charts)
-- [FIWARE Load Tests](./load-tests)
-- [FIWARE Marinera](./marinera)
+- [FIWARE Helm Charts](./helm-charts) - for provisioning scalable, production-ready powered-by-FIWARE installations based around NGSI Context Brokers and other open source components
+- [FIWARE Load Tests](./load-tests) - to run against installations of FIWARE Components - NGSI Context Brokers running on scalable test architecture scenarios and installed with and without additional FIWARE microservices.
+- [FIWARE Marinera](./marinera) -  A GitOps repository for deploying a FIWARE platform, using Kubernetes and Red Hat OpenShift
 - [ODALA](./odala)
 
 ## License
