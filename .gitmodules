@@ -1,0 +1,45 @@
+[submodule "odala/api-umbrella"]
+	path = odala/api-umbrella
+	url = https://gitlab.publiccode.solutions/odala-public/api-umbrella.git
+[submodule "odala/ckan"]
+	path = odala/ckan
+	url = https://gitlab.publiccode.solutions/odala-public/ckan.git
+[submodule "odala/contextbroker"]
+	path = odala/contextbroker
+	url = https://gitlab.publiccode.solutions/odala-public/contextbroker.git
+[submodule "odala/elasticsearch"]
+	path = odala/elasticsearch
+	url = https://gitlab.publiccode.solutions/odala-public/elasticsearch.git
+[submodule "odala/environmental-toolkit"]
+	path = odala/environmental-toolkit
+	url = https://gitlab.publiccode.solutions/odala-public/environmental-toolkit.git
+[submodule "odala/keyrock"]
+	path = odala/keyrock
+	url = https://gitlab.publiccode.solutions/odala-public/keyrock.git
+[submodule "odala/mdm-adapter"]
+	path = odala/mdm-adapter
+	url = https://gitlab.publiccode.solutions/odala-public/mdm-adapter.git
+[submodule "odala/mobility-toolkit"]
+	path = odala/mobility-toolkit
+	url = https://gitlab.publiccode.solutions/odala-public/mobility_toolkit.git
+[submodule "odala/mongo"]
+	path = odala/mongo
+	url = https://gitlab.publiccode.solutions/odala-public/mongo.git
+[submodule "odala/mysql"]
+	path = odala/mysql
+	url = https://gitlab.publiccode.solutions/odala-public/mysql.git
+[submodule "odala/nifi"]
+	path = odala/nifi
+	url = https://gitlab.publiccode.solutions/odala-public/nifi.git
+[submodule "odala/nifi-registry"]
+	path = odala/nifi-registry
+	url = https://gitlab.publiccode.solutions/odala-public/nifi-registry.git
+[submodule "odala/documentation"]
+	path = odala/documentation
+	url = https://gitlab.publiccode.solutions/odala-public/odala-documentation.git
+[submodule "odala/loki-stack"]
+	path = odala/loki-stack
+	url = https://gitlab.publiccode.solutions/odala-public/loki-stack.git
+[submodule "odala/loki-stack-documentation"]
+	path = odala/loki-stack-documentation
+	url = https://gitlab.publiccode.solutions/odala-public/waf-documentation.git
