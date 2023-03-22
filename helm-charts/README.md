@@ -9,14 +9,12 @@ Kubernetes HELM Charts for FIWARE Generic Enablers for provisioning scalable, pr
 
 ### What is FIWARE Helm Charts?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-id est laborum
+[Helm](https://helm.sh/) is a mechanism to help manage your Kubernetes applications. Individual Helm Charts help you define, install, 
+and consistently upgrade applications. This repository provides standard Helm Charts of Generic Enablers from the FIWARE Catalogue.
+The charts can be install into Kubernetes using helm3.
+
 
 ### Why use FIWARE Helm Charts?
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim
-veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate
-velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim
-id est laborum
+Helm simplifies the deployment process allowing you to take a basic  common template, and then override the value you need. This repository 
+holds those standardized template files using common default values, so you can create your deployments using minimal infrastructure as code.
