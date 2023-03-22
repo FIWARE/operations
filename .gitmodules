@@ -43,3 +43,15 @@
 [submodule "odala/loki-stack-documentation"]
 	path = odala/loki-stack-documentation
 	url = https://gitlab.publiccode.solutions/odala-public/waf-documentation.git
+[submodule "helm-charts/helm-charts"]
+	path = helm-charts/helm-charts
+	url = https://github.com/FIWARE/helm-charts.git
+[submodule "load-tests/load-testss"]
+	path = load-tests/load-tests
+	url = https://github.com/FIWARE/load-tests.git
+[submodule "marinera/marinera"]
+	path = marinera/marinera
+	url = https://github.com/FIWARE-Ops/marinera.git
+[submodule "marinera/tests"]
+	path = marinera/tests
+	url = https://github.com/FIWARE-Ops/marinera-e2e.git
