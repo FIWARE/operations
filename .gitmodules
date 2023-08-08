@@ -1,45 +1,59 @@
 [submodule "odala/api-umbrella"]
 	path = odala/api-umbrella
-	url = https://gitlab.publiccode.solutions/odala-public/api-umbrella.git
-[submodule "odala/ckan"]
-	path = odala/ckan
-	url = https://gitlab.publiccode.solutions/odala-public/ckan.git
+	url = https://github.com/contrasec-fi/api-umbrella.git
+[submodule "odala/apisix"]
+	path = odala/apisix
+	url = https://github.com/contrasec-fi/apisix.git
 [submodule "odala/contextbroker"]
 	path = odala/contextbroker
 	url = https://gitlab.publiccode.solutions/odala-public/contextbroker.git
 [submodule "odala/elasticsearch"]
 	path = odala/elasticsearch
-	url = https://gitlab.publiccode.solutions/odala-public/elasticsearch.git
+	url = https://github.com/contrasec-fi/elasticsearch.git
 [submodule "odala/environmental-toolkit"]
 	path = odala/environmental-toolkit
 	url = https://gitlab.publiccode.solutions/odala-public/environmental-toolkit.git
+[submodule "odala/keycloak"]
+	path = odala/keycloak
+	url = https://github.com/contrasec-fi/keycloak.git
 [submodule "odala/keyrock"]
 	path = odala/keyrock
-	url = https://gitlab.publiccode.solutions/odala-public/keyrock.git
-[submodule "odala/mdm-adapter"]
-	path = odala/mdm-adapter
-	url = https://gitlab.publiccode.solutions/odala-public/mdm-adapter.git
-[submodule "odala/mobility-toolkit"]
-	path = odala/mobility-toolkit
-	url = https://gitlab.publiccode.solutions/odala-public/mobility_toolkit.git
-[submodule "odala/mongo"]
-	path = odala/mongo
-	url = https://gitlab.publiccode.solutions/odala-public/mongo.git
-[submodule "odala/mysql"]
-	path = odala/mysql
-	url = https://gitlab.publiccode.solutions/odala-public/mysql.git
-[submodule "odala/nifi"]
-	path = odala/nifi
-	url = https://gitlab.publiccode.solutions/odala-public/nifi.git
-[submodule "odala/nifi-registry"]
-	path = odala/nifi-registry
-	url = https://gitlab.publiccode.solutions/odala-public/nifi-registry.git
-[submodule "odala/documentation"]
-	path = odala/documentation
-	url = https://gitlab.publiccode.solutions/odala-public/odala-documentation.git
+	url = https://github.com/contrasec-fi/keyrock.git
+[submodule "odala/kong"]
+	path = odala/kong
+	url = https://github.com/contrasec-fi/kong.git
 [submodule "odala/loki-stack"]
 	path = odala/loki-stack
-	url = https://gitlab.publiccode.solutions/odala-public/loki-stack.git
+	url = https://github.com/contrasec-fi/loki-stack.git
+[submodule "odala/marketplace"]
+	path = odala/marketplace
+	url = https://github.com/contrasec-fi/marketplace.git
+[submodule "odala/mongo"]
+	path = odala/mongo
+	url = https://github.com/contrasec-fi/mongo.git
+[submodule "odala/mysql"]
+	path = odala/mysql
+	url = https://github.com/contrasec-fi/mysql.git
+
+[submodule "odala/documentation"]
+	path = odala/documentation
+	url = https://github.com/contrasec-fi/odala-documentation.git
+[submodule "odala/odala-rbac"]
+	path = odala/odala-rbac
+	url = https://github.com/contrasec-fi/Odala-rbac.git
+[submodule "odala/security-documentation"]
+	path = odala/security-documentation
+	url = https://github.com/contrasec-fi/security-component-documentation.git
+[submodule "odala/trusted-broker-federation"]
+	path = odala/trusted-broker-federation
+	url = https://github.com/contrasec-fi/trusted-broker-federation.git
+[submodule "odala/trusted-marketplace-portal"]
+	path = odala/trusted-marketplace-portal
+	url = https://github.com/contrasec-fi/trusted-marketplace-portal.git
+
+[submodule "odala/ckan"]
+	path = odala/ckan
+	url = https://gitlab.publiccode.solutions/odala-public/ckan.git
 [submodule "odala/loki-stack-documentation"]
 	path = odala/loki-stack-documentation
 	url = https://gitlab.publiccode.solutions/odala-public/waf-documentation.git
@@ -49,6 +63,19 @@
 [submodule "load-tests/load-testss"]
 	path = load-tests/load-tests
 	url = https://github.com/FIWARE/load-tests.git
+[submodule "odala/nifi"]
+	path = odala/nifi
+	url = https://gitlab.publiccode.solutions/odala-public/nifi.git
+[submodule "odala/nifi-registry"]
+	path = odala/nifi-registry
+	url = https://gitlab.publiccode.solutions/odala-public/nifi-registry.git
+[submodule "odala/mdm-adapter"]
+	path = odala/mdm-adapter
+	url = https://gitlab.publiccode.solutions/odala-public/mdm-adapter.git
+[submodule "odala/mobility-toolkit"]
+	path = odala/mobility-toolkit
+	url = https://gitlab.publiccode.solutions/odala-public/mobility_toolkit.git
+	
 [submodule "marinera/marinera"]
 	path = marinera/marinera
 	url = https://github.com/FIWARE-Ops/marinera.git
