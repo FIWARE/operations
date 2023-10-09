@@ -81,3 +81,6 @@
 [submodule "odala/loki-stack-documentation"]
 	path = odala/loki-stack-documentation
 	url = https://github.com/contrasec-fi/security-component-documentation
+[submodule "odala/mobility-toolkit"]
+	path = odala/mobility-toolkit
+	url = https://github.com/nec-research/mobility-toolkit
