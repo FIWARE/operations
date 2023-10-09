@@ -69,10 +69,6 @@
 [submodule "odala/mdm-adapter"]
 	path = odala/mdm-adapter
 	url = https://gitlab.publiccode.solutions/odala-public/mdm-adapter.git
-[submodule "odala/mobility-toolkit"]
-	path = odala/mobility-toolkit
-	url = https://gitlab.publiccode.solutions/odala-public/mobility_toolkit.git
-	
 [submodule "marinera/marinera"]
 	path = marinera/marinera
 	url = https://github.com/FIWARE-Ops/marinera.git
@@ -85,3 +81,6 @@
 [submodule "odala/loki-stack-documentation"]
 	path = odala/loki-stack-documentation
 	url = https://github.com/contrasec-fi/security-component-documentation
+[submodule "odala/mobility-toolkit"]
+	path = odala/mobility-toolkit
+	url = https://github.com/nec-research/mobility-toolkit
