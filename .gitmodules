@@ -54,9 +54,6 @@
 [submodule "load-tests/load-testss"]
 	path = load-tests/load-tests
 	url = https://github.com/FIWARE/load-tests.git
-[submodule "odala/nifi-registry"]
-	path = odala/nifi-registry
-	url = https://gitlab.publiccode.solutions/odala-public/nifi-registry.git
 [submodule "odala/mdm-adapter"]
 	path = odala/mdm-adapter
 	url = https://gitlab.publiccode.solutions/odala-public/mdm-adapter.git
@@ -84,3 +81,6 @@
 [submodule "odala/nifi"]
 	path = odala/nifi
 	url = https://github.com/sirus-be/odala-public-nifi
+[submodule "odala/nifi-registry"]
+	path = odala/nifi-registry
+	url = https://github.com/sirus-be/odala-public-nifi-registry
