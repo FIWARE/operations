@@ -54,9 +54,6 @@
 [submodule "odala/ckan"]
 	path = odala/ckan
 	url = https://gitlab.publiccode.solutions/odala-public/ckan.git
-[submodule "odala/loki-stack-documentation"]
-	path = odala/loki-stack-documentation
-	url = https://gitlab.publiccode.solutions/odala-public/waf-documentation.git
 [submodule "helm-charts/helm-charts"]
 	path = helm-charts/helm-charts
 	url = https://github.com/FIWARE/helm-charts.git
@@ -85,3 +82,6 @@
 [submodule "fiware-gitops/fiware-gitops"]
 	path = fiware-gitops/fiware-gitops
 	url = https://github.com/FIWARE-Ops/fiware-gitops.git
+[submodule "odala/loki-stack-documentation"]
+	path = odala/loki-stack-documentation
+	url = https://github.com/contrasec-fi/security-component-documentation
