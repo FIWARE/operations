@@ -84,3 +84,18 @@
 [submodule "odala/environmental-toolkit"]
 	path = odala/environmental-toolkit
 	url = https://github.com/HOP-Ubiquitous/Environmental-toolkit
+[submodule "odala/mobility-dashboard"]
+	path = odala/mobility-dashboard
+	url = https://github.com/phoops/components-mobility-dashboard
+[submodule "odala/travel-planner"]
+	path = odala/travel-planner
+	url = https://github.com/phoops/odala-travel-planner
+[submodule "odala/parking-fetcher"]
+	path = odala/parking-fetcher
+	url = https://github.com/phoops/parking-access-fetcher
+[submodule "odala/ckan-publisher-ngsi-ld"]
+	path = odala/ckan-publisher-ngsi-ld
+	url = https://github.com/phoops/ckan-publisher-ngsi-ld
+[submodule "odala/otp-stops-extractor"]
+	path = odala/otp-stops-extractor
+	url = https://github.com/phoops/otp-stops-extractor
