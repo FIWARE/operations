@@ -4,9 +4,6 @@
 [submodule "odala/apisix"]
 	path = odala/apisix
 	url = https://github.com/contrasec-fi/apisix.git
-[submodule "odala/contextbroker"]
-	path = odala/contextbroker
-	url = https://gitlab.publiccode.solutions/odala-public/contextbroker.git
 [submodule "odala/elasticsearch"]
 	path = odala/elasticsearch
 	url = https://github.com/contrasec-fi/elasticsearch.git
@@ -84,3 +81,6 @@
 [submodule "odala/ckan"]
 	path = odala/ckan
 	url = https://github.com/sirus-be/odala-public-ckan
+[submodule "odala/contextbroker"]
+	path = odala/contextbroker
+	url = https://github.com/sirus-be/odala-public-contextbroker
