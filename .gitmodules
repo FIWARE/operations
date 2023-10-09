@@ -7,9 +7,6 @@
 [submodule "odala/elasticsearch"]
 	path = odala/elasticsearch
 	url = https://github.com/contrasec-fi/elasticsearch.git
-[submodule "odala/environmental-toolkit"]
-	path = odala/environmental-toolkit
-	url = https://gitlab.publiccode.solutions/odala-public/environmental-toolkit.git
 [submodule "odala/keycloak"]
 	path = odala/keycloak
 	url = https://github.com/contrasec-fi/keycloak.git
@@ -84,3 +81,6 @@
 [submodule "odala/nifi-registry"]
 	path = odala/nifi-registry
 	url = https://github.com/sirus-be/odala-public-nifi-registry
+[submodule "odala/environmental-toolkit"]
+	path = odala/environmental-toolkit
+	url = https://github.com/HOP-Ubiquitous/Environmental-toolkit
