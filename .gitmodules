@@ -51,9 +51,6 @@
 [submodule "load-tests/load-testss"]
 	path = load-tests/load-tests
 	url = https://github.com/FIWARE/load-tests.git
-[submodule "odala/mdm-adapter"]
-	path = odala/mdm-adapter
-	url = https://gitlab.publiccode.solutions/odala-public/mdm-adapter.git
 [submodule "marinera/marinera"]
 	path = marinera/marinera
 	url = https://github.com/FIWARE-Ops/marinera.git
@@ -63,9 +60,6 @@
 [submodule "fiware-gitops/fiware-gitops"]
 	path = fiware-gitops/fiware-gitops
 	url = https://github.com/FIWARE-Ops/fiware-gitops.git
-[submodule "odala/loki-stack-documentation"]
-	path = odala/loki-stack-documentation
-	url = https://github.com/contrasec-fi/security-component-documentation
 [submodule "odala/mobility-toolkit"]
 	path = odala/mobility-toolkit
 	url = https://github.com/nec-research/mobility-toolkit
@@ -99,3 +93,6 @@
 [submodule "odala/otp-stops-extractor"]
 	path = odala/otp-stops-extractor
 	url = https://github.com/phoops/otp-stops-extractor
+[submodule "odala/mdm-adapter"]
+	path = odala/mdm-adapter
+	url = https://github.com/ScorpioBroker/mdm-adapter
